@@ -16,6 +16,7 @@ body{
   padding-right: 40px; */
   padding: 20px 40px;
   margin-bottom: 60px;
+  height: 80px;
 }
 
 nav{
@@ -36,6 +37,7 @@ aside{
   border-top: 5px solid #1098ad;
   border-bottom: 5px solid #1098ad;
   padding: 50px 0;
+  width: 500px;
 }
 
 
@@ -161,6 +163,12 @@ a:active{
   font-style: italic;
 }
 /* link, visited, hover, active LVHA*/
+
+.post-img{
+  width: 100%;
+  /* if  the height is already define you can use the key "word" auto to put the aspect ratio back to original */
+  height: auto;
+}
 
 /* id has high specificity */
 /* #copyright{
