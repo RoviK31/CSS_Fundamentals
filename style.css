@@ -7,6 +7,14 @@
 body{
   color: #444;
   font-family: sans-serif;
+
+}
+
+.container{
+  width: 800px;
+  /* margin-left: auto;
+  margin-right: auto; */
+margin: 0 auto;
 }
 
 .main-header{
