@@ -124,4 +124,21 @@ a:active{
   background-color: black;
   font-style: italic;
 }
-/* link, visited, hover, active */
+/* link, visited, hover, active LVHA*/
+
+/* id has high specificity */
+/* #copyright{
+  color:red;
+}
+
+.copyright{
+  color:blue;
+}
+
+.text{
+  color:yellow;
+}
+
+footer p{
+  color: green;
+} */
